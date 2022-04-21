@@ -1,7 +1,7 @@
 package assignments;
 import java.util.Scanner;
 
-public class PizzaCost {
+public class PizzaCostTask {
 
 	public static void main(String[] args) {
 		/*
