@@ -14,7 +14,7 @@ public class FromMeToYou {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("From: Mr Wilson");
+		System.out.println("From: Mr Wilson");//Display who the letter is from 
 		System.out.println(" ");
 		System.out.println("Address: Acer Computer, Lab 314");
 		System.out.println(" ");
