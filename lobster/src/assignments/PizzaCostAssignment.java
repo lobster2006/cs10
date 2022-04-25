@@ -14,8 +14,7 @@ public class PizzaCostAssignment {
 		School: CHHS
 		Course: Computer Science 10
 		 
-
-		*/
+	*/
 		@SuppressWarnings("resource")
 		
 			 // Declare variables
